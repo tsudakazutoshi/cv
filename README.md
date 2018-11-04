@@ -13,7 +13,7 @@ Researcher, interested in Material Cycles and Design for Sustainability
 - [Tumblr](http://fabmodern.tumblr.com) (The Modernology of Fab Labs)
 
 
-## Professional ##
+## Experience ##
 - 2016 Researcher, YCAM Bio Research, Yamaguchi Center for Arts and Media [YCAM], Japan
 - 2011-2015 Assistant professor, Creative Design Studio on Technology, School/Graduate School of Engineering, Osaka University, Japan
 - 2008-2011 Researcher, On-site Research Center for Sustainability Design (ORCSD), Graduate School of Engineering, Osaka University, Japan
@@ -56,3 +56,5 @@ Researcher, interested in Material Cycles and Design for Sustainability
 1. Kazutoshi Tsuda, Yuji Hirose, Hironao Ogura, and Yasufumi Otsubo (2008) Motion Control of Disc Electrode by Electrorheological Fluids, The XVth International Congress on Rheology, 3-8 August 2008, Monterey, California, US, pp.247.
 1. Kazutoshi Tsuda, Hironao Ogura, and Yasufumi Otsubo (2006) Electrorheological Behavior of Whisker Suspensions under Oscillatory Shear, International Workshop on Process Intensification in Fluid and Particle Engineering (IWPI), 15-18 October 2006, Kobe, Japan, pp.139.
 1. Hironao Ogura, Kazutoshi Tsuda and Yasufumi Otsubo (2004) Simulation of Chemical Heat Pump System for Thermal Energy Recycling Utilization, The 10th Asian Pacific Confederation of Chemical Engineering (APCChE) Congress, 17-21 October 2004, Kitakyushu, Japan, pp.537-544.
+ 
+[Publications written in Japanese](jp.md) 
