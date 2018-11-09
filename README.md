@@ -7,7 +7,7 @@ Researcher, interested in Material Cycles and Design for Sustainability
 - [Facebook](http://www.facebook.com/tsudakazutoshi)
 - [Twitter](http://twitter.com/tsudakazutoshi)
 - [Instagram](http://www.instagram.com/tsudakazutoshi)
-
+- [researchmap](https://researchmap.jp/tsudakazutoshi)
 
 - [Flickr](https://www.flickr.com/photos/134164093@N07/albums) (YCAM Bio Research)
 - [Tumblr](http://fabmodern.tumblr.com) (The Modernology of Fab Labs)
@@ -25,7 +25,7 @@ Researcher, interested in Material Cycles and Design for Sustainability
 
 
 ## Paper ##
-1. Kazutoshi Tsuda, Mitsuhito Ando, Kazuhiro Jo, and Takayuki Ito (2018) Creating together, learning together: Practices of YCAM in cooperation with machines. Journal of Peer Production, Issue.12, Vol.3, pp.33-36.
+1. Kazutoshi Tsuda, Mitsuhito Ando, Kazuhiro Jo, and Takayuki Ito (2018) Creating together, learning together: Practices of YCAM in cooperation with machines, Journal of Peer Production, Issue.12, Vol.3, pp.33-36.
 1. Kazutoshi Tsuda, Michinori Uwasu, Keishiro Hara, Yukari Fuchigami (2017) Approaches to induce behavioral changes with respect to electricity consumption, Journal of Environmental Studies and Sciences, Vol.7, pp.30-38.
 1. Yosuke Sakai, Takayuki Ito, Mitsuhito Ando, Keina Konno, Tsubasa Nishi, Kiyoshi Suganuma, Fumie Takahara, Kazutoshi Tsuda, Kazuhiro Jo, Tomimatsu Kiyoshi (2017) Practical Study of Open Sharing at Yamaguchi Center for Arts and Media [YCAM], International Journal of Asia Digital Art and Design Association, Vol.20, Issue.4, pp.85-93.
 1. Keishiro Hara, Terukazu Kumazawa, Michinori Kimura, Kazutoshi Tsuda (2016) Participatory approach in vision setting: emerging initiatives in local municipalities in Japan, Sustainability Science, Vol.11, pp.493-503.
