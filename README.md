@@ -39,6 +39,7 @@ Researcher, interested in Material Cycles and Design for Sustainability
 1. Kazutoshi Tsuda, Toyohiko Nakakubo, Yasushi Umeda, Tohru Morioka, Potential accounting of regional urban-rural partnership for constructing resource-circulating systems - A case study of Zhejiang Province in China, Establishing a resource-circulating society in Asia: Challenges and opportunities, Tohru Morioka, Keisuke Hanaki and Yuichi Moriguchi (eds), UNU Press (March 2011), pp.184-200.
 
 ## Conference ##
+1. Kazutoshi Tsuda, Takayuki Ito, Fumie Takahara, Kiyoshi Suganuma and Young-ja Park (2019) How to Make the Field Guide “DNA of Forests”, iBOL 2019: The 8th International Barcode of Life Conference, Trondheim, Norway, 17-20 June 2019. (abstract accepted)  
 1. Kazutoshi Tsuda, Rie Mochizuki and Kumiko Idaka (2015) The Modernology of Fab Labs: How to share the landscape of Social Fabrication, FAB11: The 11th International Fab Lab Conference & Symposium, Boston, U.S., 3-9 August 2015.
 1. Kazutoshi Tsuda, Hirokazu Makino, Keishiro Hara and Michinori Uwasu (2014) Potential self-supply of local resources towards regional sustainability: Case study of Shinjo village in Okayama prefecture, Japan, EcoBalance 2014, Tsukuba, Japan, 27-30 October 2014.
 1. Keishiro Hara, Terukazu Kumazawa, Kazutoshi Tsuda and Michinori Kimura (2014) Managing regional natural resources in the context of rural-urban partnership: Case studies of local areas in Japan, The 5th International Conference of the Asian Rural Sociological Association (ARSA), NUL, Vientiane, Laos, 2-5 September 2014.
