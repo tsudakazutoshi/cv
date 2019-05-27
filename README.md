@@ -8,8 +8,6 @@ Researcher, interested in Material Cycles and Design for Sustainability
 - [Twitter](http://twitter.com/tsudakazutoshi)
 - [Instagram](http://www.instagram.com/tsudakazutoshi)
 - [researchmap](https://researchmap.jp/tsudakazutoshi)
-
-- [Flickr](https://www.flickr.com/photos/134164093@N07/albums) (YCAM Bio Research)
 - [Tumblr](http://fabmodern.tumblr.com) (The Modernology of Fab Labs)
 
 
