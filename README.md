@@ -12,6 +12,8 @@ Researcher, interested in Material Cycles and Design for Sustainability
 
 
 ## Experience ##
+- 2020- Junior Associate Professor, Design and Architecture, Kyoto Institute of Technology, Japan
+- 2020- Research fellow, Yamaguchi Center for Arts and Media [YCAM], Japan
 - 2016-2019 Researcher, YCAM Bio Research, Yamaguchi Center for Arts and Media [YCAM], Japan
 - 2011-2015 Assistant professor, Creative Design Studio on Technology, School/Graduate School of Engineering, Osaka University, Japan
 - 2008-2011 Researcher, On-site Research Center for Sustainability Design (ORCSD), Graduate School of Engineering, Osaka University, Japan
