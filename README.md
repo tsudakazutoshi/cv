@@ -25,6 +25,7 @@ Researcher, interested in Material Cycles and Design for Sustainability
 
 
 ## Paper ##
+1. Kazutoshi Tsuda, Mariko Sakuragi (2020) Co-design of Do-it-yourself Face Shield in Japan Under COVID-19 Pandemic, Strategic Design Research Journal, Vol.13, No.3, Special Issue: Design contributions for the COVID-19 global emergency (accepted).
 1. Kazutoshi Tsuda, Mitsuhito Ando, Kazuhiro Jo, and Takayuki Ito (2018) Creating together, learning together: Practices of YCAM in cooperation with machines, Journal of Peer Production, Issue.12, Vol.3, pp.33-36.
 1. Kazutoshi Tsuda, Michinori Uwasu, Keishiro Hara, Yukari Fuchigami (2017) Approaches to induce behavioral changes with respect to electricity consumption, Journal of Environmental Studies and Sciences, Vol.7, pp.30-38.
 1. Yosuke Sakai, Takayuki Ito, Mitsuhito Ando, Keina Konno, Tsubasa Nishi, Kiyoshi Suganuma, Fumie Takahara, Kazutoshi Tsuda, Kazuhiro Jo, Tomimatsu Kiyoshi (2017) Practical Study of Open Sharing at Yamaguchi Center for Arts and Media [YCAM], International Journal of Asia Digital Art and Design Association, Vol.20, Issue.4, pp.85-93.
@@ -39,6 +40,7 @@ Researcher, interested in Material Cycles and Design for Sustainability
 1. Kazutoshi Tsuda, Toyohiko Nakakubo, Yasushi Umeda, Tohru Morioka, Potential accounting of regional urban-rural partnership for constructing resource-circulating systems - A case study of Zhejiang Province in China, Establishing a resource-circulating society in Asia: Challenges and opportunities, Tohru Morioka, Keisuke Hanaki and Yuichi Moriguchi (eds), UNU Press (March 2011), pp.184-200.
 
 ## Conference ##
+1. Kazutoshi Tsuda, Kazuhiko Yoshizaki, Leonhard Bartolomeus, Fumie Takahara, Takayuki Ito, et al. (2020) Applying nanopore technology in art exhibition: Report of the exhibition “wow, see you in the next life. / studies on uncertain information from the future and the past”, Nanopore Community Meeting 2020 Online, 1-3 December 2020.
 1. Kazutoshi Tsuda, Takayuki Ito, Fumie Takahara, Kiyoshi Suganuma and Young-ja Park (2019) How to Make the Field Guide “DNA of Forests”, iBOL 2019: The 8th International Barcode of Life Conference, Trondheim, Norway, 17-20 June 2019 (Genome, Vol.62, p.442).  
 1. Kazutoshi Tsuda, Rie Mochizuki and Kumiko Idaka (2015) The Modernology of Fab Labs: How to share the landscape of Social Fabrication, FAB11: The 11th International Fab Lab Conference & Symposium, Boston, U.S., 3-9 August 2015.
 1. Kazutoshi Tsuda, Hirokazu Makino, Keishiro Hara and Michinori Uwasu (2014) Potential self-supply of local resources towards regional sustainability: Case study of Shinjo village in Okayama prefecture, Japan, EcoBalance 2014, Tsukuba, Japan, 27-30 October 2014.
