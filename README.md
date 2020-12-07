@@ -41,6 +41,7 @@ Researcher, interested in Material Cycles and Design for Sustainability
 
 ## Conference ##
 1. Kazutoshi Tsuda, Kazuhiko Yoshizaki, Leonhard Bartolomeus, Fumie Takahara, Takayuki Ito, et al. (2020) Applying nanopore technology in art exhibition: Report of the exhibition “wow, see you in the next life. / studies on uncertain information from the future and the past”, Nanopore Community Meeting 2020 Online, 1-3 December 2020.
+1. Atsuro Morita, Kazutoshi Tsuda (2019) Downscaling Infrastructures for Ecological Sustainability: Circular Imagination and Sociotechnical Experiments in the Fab Lab Movement, EGOS (European Group for Organizational Studies) & OS (Organization Studies) in Kyoto, Japan, 13 December 2019.
 1. Kazutoshi Tsuda, Takayuki Ito, Fumie Takahara, Kiyoshi Suganuma and Young-ja Park (2019) How to Make the Field Guide “DNA of Forests”, iBOL 2019: The 8th International Barcode of Life Conference, Trondheim, Norway, 17-20 June 2019 (Genome, Vol.62, p.442).  
 1. Kazutoshi Tsuda, Rie Mochizuki and Kumiko Idaka (2015) The Modernology of Fab Labs: How to share the landscape of Social Fabrication, FAB11: The 11th International Fab Lab Conference & Symposium, Boston, U.S., 3-9 August 2015.
 1. Kazutoshi Tsuda, Hirokazu Makino, Keishiro Hara and Michinori Uwasu (2014) Potential self-supply of local resources towards regional sustainability: Case study of Shinjo village in Okayama prefecture, Japan, EcoBalance 2014, Tsukuba, Japan, 27-30 October 2014.
