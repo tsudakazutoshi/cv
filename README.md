@@ -25,7 +25,7 @@ Researcher, interested in Material Cycles and Design for Sustainability
 
 
 ## Paper ##
-1. Kazutoshi Tsuda, Mariko Sakuragi (2020) Co-design of Do-it-yourself Face Shield in Japan Under COVID-19 Pandemic, Strategic Design Research Journal, Vol.13, No.3, Special Issue: Design contributions for the COVID-19 global emergency (accepted).
+1. Kazutoshi Tsuda, Mariko Sakuragi (2020) Co-design of Do-it-yourself Face Shield in Japan Under COVID-19 Pandemic, Strategic Design Research Journal, Vol.13, No.3, September-December 2020 (Special Issue: Design contributions for the COVID-19 global emergency), pp.502-510.
 1. Kazutoshi Tsuda, Mitsuhito Ando, Kazuhiro Jo, and Takayuki Ito (2018) Creating together, learning together: Practices of YCAM in cooperation with machines, Journal of Peer Production, Issue.12, Vol.3, pp.33-36.
 1. Kazutoshi Tsuda, Michinori Uwasu, Keishiro Hara, Yukari Fuchigami (2017) Approaches to induce behavioral changes with respect to electricity consumption, Journal of Environmental Studies and Sciences, Vol.7, pp.30-38.
 1. Yosuke Sakai, Takayuki Ito, Mitsuhito Ando, Keina Konno, Tsubasa Nishi, Kiyoshi Suganuma, Fumie Takahara, Kazutoshi Tsuda, Kazuhiro Jo, Tomimatsu Kiyoshi (2017) Practical Study of Open Sharing at Yamaguchi Center for Arts and Media [YCAM], International Journal of Asia Digital Art and Design Association, Vol.20, Issue.4, pp.85-93.
