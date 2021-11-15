@@ -37,6 +37,7 @@ Researcher, interested in Material Cycles and Design for Sustainability
 1. Kazutoshi Tsuda, Yasuto Takeda, Hironao Ogura, Yasufumi Otsubo (2007) Electrorheological behavior of whisker suspensions under oscillatory shear, Colloids and Surfaces A, Vol.299, pp.262-267.
 
 ## Book ##
+1. Kazutoshi Tsuda, Attempting to Fab in Rural Areas of Japan: From Fab Cities to Fab Villages, This is Distributed Design, Distributed Design Platform (eds), Fab Lab Barcelona (November 2021), pp.240-249.
 1. Kazutoshi Tsuda, Toyohiko Nakakubo, Yasushi Umeda, Tohru Morioka, Potential accounting of regional urban-rural partnership for constructing resource-circulating systems - A case study of Zhejiang Province in China, Establishing a resource-circulating society in Asia: Challenges and opportunities, Tohru Morioka, Keisuke Hanaki and Yuichi Moriguchi (eds), UNU Press (March 2011), pp.184-200.
 
 ## Conference ##
